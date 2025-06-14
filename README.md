@@ -1,16 +1,62 @@
+# 👋 Hi there!
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="350px"/>
+</p>
 
-# 💫 About Me:
-👋 Hi, I'm Anurag Sharma!<br><br>I’m a passionate software engineer with expertise in Java and Spring Boot. I enjoy building robust back-end systems and crafting efficient APIs to solve real-world problems. My journey in software development has been fueled by a commitment to writing clean, maintainable code and creating scalable applications.<br><br>💼 I’m currently working on: Developing a back-end solution for a ride-sharing app using Spring Boot, PostgreSQL, and OSRM for spatial distance mapping.<br><br>🌱 I’m currently learning: Enhancing my skills in microservices architecture and improving the security and performance of Spring Boot applications.<br><br>💡 Fun fact: I love solving coding challenges and have completed over 100+ problems on LeetCode!
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi_there!-I'm_Anurag_Sharma-blue?style=for-the-badge"/>
+</p>
+<p align="center">
+  🚀 <strong>Backend Craftsman | Java & Spring Boot | Python | Microservices | Real‑Time Systems | Maven</strong> 🚀
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnuragSh2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragSh2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSh2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 About Me
 
+```java
+class AnuragSharma {
+  title       : "Software Developer / Backend Engineer";
+  languages   : ["Java", "Python", "SQL"];
+  frameworks  : ["Spring Boot", "Spring Security", "WebFlux", "Django"];
+  interests   : [
+    "Algorithmic trading bots 🤖",
+    "Safe‑mobility platforms 🚕",
+    "AI‑powered fintech tools 💹",
+    "Real‑time data pipelines 📡"
+  ];
+  motto       : "Ship clean code, sip strong coffee.";
+}
+```
 ---
-[![](https://visitcount.itsvg.in/api?id=AnuragSh2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔭 Currently building CABhub – a context‑aware cab backend with live tracking & safety triggers
+
+📈 Experimenting with Zerodha‑powered trading algos & sentiment‑driven strategies
+
+🤝 Collaborating on open‑source Spring Boot utilities and data‑streaming projects
+
+🌱 Always learning: gRPC, Kubernetes, and a dash of Rust when the JVM sleeps
+
+🧰 Tech Toolbox
+Domain	Tools
+Languages	Java, Python, SQL
+Frameworks	Spring Boot, Spring Security, Django, WebFlux
+Data & Storage	PostgreSQL, MongoDB, Redis
+Event Streaming	Apache Kafka
+Dev & Infra	Docker, GitHub, Postman
+Tools	IntelliJ IDEA, VS Code, Maven
+✨ Fun Fact
+☕ If my coffee machine could code, it’d still ask for pull request reviews.
+
+## 🎬 Keep Coding! 🚀
